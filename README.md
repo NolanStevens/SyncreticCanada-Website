@@ -22,12 +22,9 @@
 <br />
 
 [![license](https://img.shields.io/github/license/NolanStevens/SyncreticCanada-Website.svg?style=for-the-badge)](LICENSE)
-
 [![version](https://img.shields.io/github/v/release/NolanStevens/SyncreticCanada-Website?style=for-the-badge)](VERSION)
-
 [![version](https://img.shields.io/github/v/release/NolanStevens/SyncreticCanada-Website?include_prereleases&label=Pre-release&style=for-the-badge)](VERSION)
-
-[![code with hearth by NolanStevens](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-NolanStevens-ff1414.svg?style=for-the-badge)](https://github.com/NolanStevens)
+[![code with hearth by NolanStevens](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Nolan&#160;Stevens-ff1414.svg?style=for-the-badge)](https://github.com/NolanStevens)
 
 </div>
 
