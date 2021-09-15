@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/NolanStevens/REPO_SLUG">
-    <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="500" height="100">
+    <img src="docs/images/SyncreticLogoEN.svg" alt="English Syncretic Logo" width="500" height="100">
   </a>
 </h1>
 
@@ -21,10 +20,11 @@
 <div align="center">
 <br />
 
-[![license](https://img.shields.io/github/license/NolanStevens/SyncreticCanada-Website.svg?style=for-the-badge)](LICENSE)
+[![license](https://img.shields.io/github/license/NolanStevens/SyncreticCanada-Website?style=for-the-badge)](LICENSE)
 [![version](https://img.shields.io/github/v/release/NolanStevens/SyncreticCanada-Website?style=for-the-badge)](VERSION)
 [![version](https://img.shields.io/github/v/release/NolanStevens/SyncreticCanada-Website?include_prereleases&label=Pre-release&style=for-the-badge)](VERSION)
-[![code with hearth by NolanStevens](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Nolan&#160;Stevens-ff1414.svg?style=for-the-badge)](https://github.com/NolanStevens)
+[![french](https://img.shields.io/badge/Français%20(fr__CA)-W.I.P.-f00?style=for-the-badge)](README.fr_CA.md)
+[![code with hearth by NolanStevens](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Nolan&#160;Stevens-ff1414?style=for-the-badge)](https://github.com/NolanStevens)
 
 </div>
 
@@ -66,10 +66,17 @@
 > **[?]**
 > Please provide your screenshots here.
 
-|                               Home Page                               |                               Login Page                               |
+|                               Home Page                               |                               Candidates Page                               |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
 
+|                               Platform Page                               |                               News Page                               |
+| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+
+|                               Donate Page                               |                               Join Page                               |
+| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
 </details>
 
 ### Built With
@@ -133,7 +140,7 @@ Thank you for being involved!
 
 ## Authors & contributors
 
-The original setup of this repository is by [FULL_NAME](https://github.com/NolanStevens).
+The original setup of this repository is by [Nolan Stevens](https://github.com/NolanStevens).
 
 For a full list of all authors and contributors, check [the contributor's page](https://github.com/NolanStevens/SyncreticCanada-Website/contributors).
 
@@ -146,7 +153,7 @@ _For more info, please refer to the [security](docs/SECURITY.md)._
 
 ## License
 
-This project is licensed under the **MIT license**.
+This project is licensed under the **GPL-3.0 License**.
 
 See [LICENSE](LICENSE) for more information.
 
